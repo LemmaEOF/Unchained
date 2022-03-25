@@ -5,6 +5,7 @@ Unchained is the world's first non-crypto, non-currency to be compatible with th
 
 What does that mean?
 - No minting fees
+- No transactions
 - No consensus mechanism
 - No blockchain
 - No unstable pyramid scheme desperately seeking infinite growth before it immolates the planet
@@ -27,4 +28,4 @@ I'll write this out once I've actually got it implemented.
 
 ## TODO
 - [ ] Figure out how the fuck the ERC-721 spec works (cryptoloser code is hellish)
-- [ ] Hook Unchained up to a database (either Redis or SQL, and hopefully I can bundle that in)
+- [ ] Hook Unchained up to a database (probably Redis, hopefully I can bundle it in)
